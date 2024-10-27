@@ -1,4 +1,7 @@
+
+//Sean Van Alen
 // nate
+main
 int buttonstate=0;
 // the setup function runs once when you press reset or power the board
 void setup() {
