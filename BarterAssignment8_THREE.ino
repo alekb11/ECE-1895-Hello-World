@@ -1,6 +1,7 @@
 
 //Sean Van Alen
 // nate
+
 main
 int buttonstate=0;
 // the setup function runs once when you press reset or power the board
@@ -10,7 +11,7 @@ void setup() {
   pinMode(7, OUTPUT);
   pinMode(6, OUTPUT);
   pinMode(A0, INPUT);
-
+//Alek B
 }
 
 // the loop function runs over and over again forever
